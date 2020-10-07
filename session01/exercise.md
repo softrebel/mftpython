@@ -4,6 +4,8 @@
 
 <div dir="rtl">
 
+- الگوریتمی بنویسید که دو مقدار را از ورودی خوانده و مقدار بزرگتر را چاپ کند
+
 ### حالات مختلف مقایسه:
 
 </div>
@@ -34,7 +36,14 @@
 5. **else if** variable B equal than A: print equal
 6. end
 
+
+
 ## 2. Read N Numbers and calculate sum.
+
+<div dir="rtl">
+
+- الگوریتمی بنویسید که تعداد N عدد را از ورودی خوانده و مجموع آنها را محاسبه و چاپ کند.
+</div>
 
 ### Counting:
 
@@ -50,6 +59,7 @@
 1. sum را برابر صفر قرار بده
    1. یک عدد از ورودی بخوان و در a بریز
    1. sum = sum + a
+   1. i را یک واحد اضافه کن
    1. اگر i < N آنگاه برو به (1)
 1. مقدار Sum را نمایش بده (چاپ کن)
 1. پایان
@@ -62,6 +72,7 @@
 1. i=0.
    1. read number from input and assign it to a
    1. sum = sum + a
+   1. i = i + 1
    1. if i < N then go to (1)
 1. print sum
 1. end
