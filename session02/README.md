@@ -1,4 +1,5 @@
-# Session 02
+# Session 03
+
 
 ## 1. Algorithm
 
@@ -85,3 +86,7 @@ a == b
 - [research: data type vs data structure]
 - [research: int, float limit in python]
 - [reasearch: unary operators: -, +]
+
+
+BY3
+
