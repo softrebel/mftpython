@@ -18,7 +18,7 @@
 ## Research:
 
 - [for-else]
-- [nested loop]
+- [nested-loop]
 
 
 - [isinstance]
