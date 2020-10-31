@@ -11,4 +11,4 @@
 ## Research:
 
 - remove slice of list
-- resources about python such as books,websites,etc..
+- resources about python such as books,websites,etc.
